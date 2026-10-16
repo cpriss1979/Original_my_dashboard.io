@@ -1,2 +1,4 @@
 Unzip all files into one folder. On macOS, run Start-Dashboard.command to serve the dashboard locally and open it in your browser. Requires Python 3. Keep the Terminal window open; Control-C stops it. Media plays inside a miniature YouTube player, subject to video embedding permissions. If macOS reports permission denied, run: chmod +x Start-Dashboard.command
 Local-server browser storage is separate from file:// storage; the launcher uses the same local address each run. Export a backup before changing addresses, then restore it on the new address.
+
+You can access your personal dashboard at https://my-day-personal-hub.cpriss.chatgpt.site
